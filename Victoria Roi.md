@@ -27,9 +27,6 @@ Referente Victoria Roi
 -->
 
 
-
-
-
 ## Consideraciones
 - Las imagenes deben ser subidas en .png, 96dpi máximo, 920x300 px.
 - Cada alumno debe subir al menos 5 referentes con su respectivo comentario.
