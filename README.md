@@ -8,7 +8,7 @@
 
 
 - [Drones para examenes COVID (video)](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoPxadNKhTZ) - Drones
-# [<img src="img/drone.png"/>](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoPxadNKhTZ)
+# [<img src="img/dron.png"/>](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoPxadNKhTZ)
 >* Comentarios
 
 
