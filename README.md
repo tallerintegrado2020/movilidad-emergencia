@@ -26,16 +26,6 @@ Referente Pedro Garretón
 Referente Victoria Roi
 -->
 
-[Drone Medico (video)](https://www.hyundainews.com/en-us/releases/2680) - Elevate, el Vehículo de movilidad máxima.
-# [<img src="img/elevate3.png"/>](https://www.hyundainews.com/en-us/releases/2680)
->* Hyundai dio a conocer su concepto para un automóvil andante llamado Elévate, el vehículo tendría patas robóticas extensibles, lo que le permitiría negociar terrenos peligrosos e irregulares.  
-El fabricante de automóviles de Corea del Sur afirma que el vehículo podría ayudar a los trabajadores de emergencia a rescatar a las personas en áreas de difícil acceso, además de ser adecuado para su uso en las ciudades. Con sus largas patas robóticas, el Elévate está diseñado para conducir, caminar o escalar el terreno más traicionero, al que los vehículos normales no pueden acceder.
-Lo más emocionante de este proyecto es que no solo tienen capacidad para ayudar en emergencias si no que también para adaptarse parea personas discapacitadas, aproximándose a ellos sin necesitar de sus esfuerzos o rampas), como también podrá modificarse levemente para usase en exploraciones en el espacio, en visitas a diversos planetas que muchas veces cuentan con suelos duros o irregulares.
-
-<!---
-Referente Carolina Bustamante
--->
-
 [Elon's Musk Boring Tunnel (video)](https://www.youtube.com/watch?v=u5V_VzRrSBI) - Elon's Musk Boring Tunnel
 # [<img src="img/boringtunnel.jpg"/>](https://www.hibridosyelectricos.com/articulo/actualidad/primer-tunel-elon-musk-coches-electricos-abrira-2020/20200103132355032387.html)
 >* El objetivo de The Boring Company es aliviar las dificultades del tráfico en las ciudades debido a las limitadas capacidades de su las redes de transporte en superficie. El CEO del fabricante de vehículos eléctricos Tesla prometió que pondría en marcha una empresa tuneladora para solucionar este problema. Durante estos dos últimos años, la compañía ha estado trabajando en un proyecto en Las Vegas que se convertirá en el primero que tenga continuidad comercial. Las Vegas Convention and Visitors Authority (LVCVA) encargó el proyecto, que debería completarse este mismo año.
