@@ -6,7 +6,9 @@
 # [<img src="img/car.png"/>](https://www.youtube.com/watch?v=CUS2w4y2Qj4)
 >* En este video se muestran realidades futuras del transporte con un claro enfoque en el individuo por sobre la colectividad. Se exploran futuros de Uber. Llama la atención el cuidado por los modelos 3D y sus render, como el desarrollo de cada interfaz de los servicios expuestos. Es importante destacar que se hace más bien referencias al lujo y al comfort indivudual de sociedades desarrolladas, sería importante conocer en un sentido más amplio e inclusivo los alcances de este tipo de avances.
 
-
+[Drone Medico (video)](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoP7l9NKhTZ) - Drones para examenes COVID.
+# [<img src="img/dron.png"/>](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoP7l9NKhTZ)
+>* Comentario del referente
 
 
 
