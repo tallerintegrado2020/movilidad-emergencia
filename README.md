@@ -92,6 +92,14 @@ En el laboratorio de Shuri, Ross es examinado y vemos retroalimentación biomét
 Gabriela Arisel
 -->
 
+[Amusphere](https://www.youtube.com/watch?v=IBlpodGjBLU) - Mind control technology.
+# [<img src="img/Amusphere2.png"/>](https://www.youtube.com/watch?v=IBlpodGjBLU)
+>* En este video se muestra como la tecnologia esta más cerca del control de objetos mediante nuestra mente. Un referente claro de donde surgió esta idea es una saga de anime llamada [SwordArtOnline](https://www.youtube.com/watch?v=W7SzlqdrkbA) 
+
+<!---
+Referente Ignacio Zuñiga
+-->
+
 ## Consideraciones
 - Las imagenes deben ser subidas en .png, 96dpi máximo, 920x300 px.
 - Cada alumno debe subir al menos 5 referentes con su respectivo comentario.
