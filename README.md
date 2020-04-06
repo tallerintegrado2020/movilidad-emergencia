@@ -166,6 +166,12 @@ Referente Max Pino
 >* Nos muestra como la percepción del cuerpo frágil va aumentando, por lo que las personas empiezan a elegir no salir tal como ellos, si no que inventan este "escudo" que los hace sentir a salvo.
 >* En un futuro (utópico o distópico), van a aumentar el porcentaje de enfermedades emergentes, por lo que vamos a tener que encontrar alternativas fuera de lo común para poder hacer nuestro día cotidiano.
 
+[(Un)Natural Selection (video)](https://www.youtube.com/watch?v=WIIVh7H6nvI) - Futuro del Bio-Hacking.
+# [<img src="img/unnaturalselection.jpg">](https://www.theguardian.com/tv-and-radio/2019/oct/17/unnatural-selection-netflix-docuseries-gene-editing)
+
+>* La exploración de nuestro cuerpo determina nuevas variantes a la misma composición órganica. Con el concepto de bio hacking nacen (aunque ya hace bastante tiempo) nuevas contradicciones éticas sobre que debemos y que podemos hacer al momento de modificar la naturaleza.
+>* La visión a largo plazo de la modificación genética nos podría llevar a mejorar nuestros cuerpos en términos de salud, conectándonos orgánicamente con la tecnología eléctrica, o hasta nuestros colores de ojo. Al mismo tiempo se puede direccionar hacia la modificación de especies, tal como los mosquitos, para quitarles el factor vectorial de muchas enfermedades que esparcen.
+
 <!---
 Referente Pablo Cortés
 -->
