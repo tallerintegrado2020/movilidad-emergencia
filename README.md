@@ -97,6 +97,16 @@ Referente Javiera Asfura
 >* En este video se muestra una nave de virgin galactic por primera vez en el espacio en el 2018 .
 >* Podría ser realidad una nueva forma de movilidad en el futuro, donde al encontrarse el planeta tierra infectado por virus y personas contagiadas, se deben proteger muy bien a las personas sanas y eventualmente podria comenzar una nueva movilidad de personas de la tierra al espacio mientras se encuentra una cura.
 
+[BALLIE ROBOT (video)](https://www.youtube.com/watch?time_continue=81&v=Xwi_U-g3wA0&feature=emb_logo) - Ballie Samsung Robot.
+# [<img src="img/BALLIEROBOT.png"/>]
+>* En este video se muestra un robot lanzado por Samsung, el cual ayuda con distintas tareas en la casa, tales como levantar a la persona, encender la aspiradora cuando es necesario, entretener a una mascota, y hacer compañía.
+>* Podría ser muy útil actualmente para personas que viven solas y se encuentran enfermas y no tienen quien los ayude con las tareas de la casa, o simplemente para personas que viven solas, y no tienen mascotas y necesitan compañía.
+
+[DRONE DELIVERY (video)](https://www.youtube.com/watch?v=EZ4uczr19io) - Dragonfly Drone Delivery.
+# [<img src="img/DRONEDELIVERY.png"/>]
+>* En este video se muestra un prototipo de delivery a través de drone. La base donde se encuentran los productos que deben ser entregados, se encuentran en un tipo de plataforma en el mar.
+>* Podría ser muy útil actualmente para las entregas, tanto de medicinas como productos comprados por internet, donde se evita la circulación de personas, a parte de ser mas rápido y efectivo y menos contaminante.
+
 <!---
 Referente María Ignacia Alcaino
 -->
@@ -104,6 +114,32 @@ Referente María Ignacia Alcaino
 [Transporte Futuro en Frasco](http://surdaka.blogspot.com/2009/07/el-transporte-del-futuro-es-en-un.html) - frasco
 # [<img src="img/monorriel.jpg"/>](http://surdaka.blogspot.com/2009/07/el-transporte-del-futuro-es-en-un.html)
 >* Aqui se puede ver como este referente del año 2009, buscaba ser un medio de transporte personal, el cual es muy atingente a lo que se vive hoy con el coronavirus, y cabe destacar que es un transporte autonomo ya que funciona como una bicicleta.
+
+
+
+[cyclotron](https://www.marketingdirecto.com/digital-general/digital/que-tiemble-uber-futurista-bicicleta-electrica-podria-taxi-futuro) - 
+# [<img src="img/cyclotron.jpg"/>](https://www.marketingdirecto.com/digital-general/digital/que-tiemble-uber-futurista-bicicleta-electrica-podria-taxi-futuro)
+>* Proxima bicicleta altamente segura, que pretendería ser un taxi con espacio para dos personas, guiada por la IA en el que se pinesa de nuevo en la individualidad, pero también en la seguridad.
+
+
+
+[silla de ruedas del futuro](https://www.airwheel.net/sp/news/17664) - 
+# [<img src="img/silladeruedas.jpg"/>](https://www.airwheel.net/sp/news/17664)
+>* Esta silla plantea seguir solucionando problemas de inclusión, con sus avances pueden ser dde gran ayuda ayuda para la autonomía que busca una persona con problemas de movilidad, sobre todo en este nuevo mundo.
+
+
+[Traje astronauta](https://peru21.pe/vida/z-2-traje-astronautas-iran-marte-156824-noticia/?ref=p21r) - 
+# [<img src="img/astronauta.jpg"/>](https://peru21.pe/vida/z-2-traje-astronautas-iran-marte-156824-noticia/?ref=p21r)
+>* Quizas pensado para viajar al espacio y arrivar en marte, pero para la crisis sanitaria que se vive hoy puede abrir una pyerta una idea como esta adaptada al uso cotidiano, para l alibre circulación ante problemas en distintas zonas del planeta.
+
+
+[autovolador](https://parabuenosaires.com/autos-voladores-el-futuro-del-transporte/) 
+# [<img src="img/autovolador.jpg"/>](https://parabuenosaires.com/autos-voladores-el-futuro-del-transporte/)
+>* Mas que un auto volador, este propone un auto flotador, que transita libremente, con innovafores sistemas de seguridad para evitar choques y otros tipos de accidentes.
+
+<!---
+Referente Max Pino
+-->
 
 <!---
 Referente Max Pino
@@ -233,6 +269,12 @@ El reconocimiento que lograron generar se podría escalar para las señas que se
 Después de contener una epidemia, piensa que los escudos tipo murciélago podrían actualizarse con la tecnología Google Glass, o simplemente usarse como un "espacio móvil privado único para las personas".
 Es curioso que ven esta barrera como algo para una persona... ¿Por qué no verlo para uso más masivo? ¿tal vez una barrera para una ciudad u edificio? esta tecnología se podría escalar aún más.
 
+[El traje de masturbación Ripple ofrece ayuda sexual a personas con discapacidad.](https://www.youtube.com/watch?v=kYatDPuhFd4) - Silla inteligente
+# [<img src="img/traje-de-masturbacion.png"/>](https://www.dezeen.com/2019/07/24/ripple-masturbation-suit-sex-aid-design/?li_source=LI&li_medium=bottom_block_1)
+>* Los diseñadores Hsin-Jou Huang, Szu-Ying Lai y Chia-Ning Hsu ayudan a las personas con discapacidad  a satisfacer sus necesidades sexuales con una herramienta de masturbación de tres partes que incluye un traje, una máscara y un control remoto. El kit de ayuda sexual, llamado Ripple, está diseñado para personas con limitaciones funcionales de moderadas a severas, que requieren cuidadores para ayudarlos en las tareas cotidianas.
+Funciona para estimular todos los sentidos, incluidos el tacto, la vista, el sonido y el olfato, a través de tres objetos diferentes: un traje de cuerpo acolchado e inflable, un control remoto con un receptor y una máscara para los ojos con auriculares, que también libera feromonas.
+* El kit en infividual para la privacidad de la persona y tambien para ayudar su tranquilidad y placer. Este podria usarse de forma más masiva para evitar el contacto con sus parejas en estos momentos, debido al covid, aislados y distanciados. Ademas el efecto de la sensacion de tacto y calor podria servir tambien como un tipo de terapia para enfermedades. Ser libre sexual mente es algo que hoy en dia cada vez se es más comun en la gente. 
+
 <!---
 Referente Carolina Bustamante
 -->
@@ -251,6 +293,32 @@ Referente Carolina Bustamante
 <!---
 Referente Isidora Puente
 -->
+
+[Citroën Ami One (video)](https://youtu.be/ZPxc4HBWve0) - Video conceptual de un vehículo eléctrico 100% digitalizado.
+# [<img src="img/citroenamione.jpg"/>](https://www.xataka.com/n/asi-sera-coche-ideal-para-moverse-libertad-ciudad-futuro)
+>* Este vehículo toma el concepto de libertad en el ámbito de usuario y movilidad. Está diseñado para ser conducido por adultos y menores de edad independientemente de una licencia. Tiene un tamaño reducido para la optimización de espacios en la urbe, recarga eléctrica y un sistema digital que puede ser monitoreado en base al smartphone como núcleo. Además posee un sistema de ruido artificial para la seguridad en la circulación peatonal.
+>* La contribución de este vehículo tiene potencial en el espacio que ocupan los automóviles convencionales y en el medio ambiente, porque se reemplaza un sistema tradicional que emite gases, con uno eléctrico que reduce la contaminación acustica y de aires. Reducir la emisión de gases es clave para poder circular con tranquilidad y evitar enfermedades en la ciudad, este problema es causado en gran parte por los automóviles convencionales.
+
+
+[Eva 00, 01 y 02 (video)](https://youtu.be/nolTeVx_Emo) - Trajes/Armaduras
+# [<img src="img/evas.jpg"/>](https://youtu.be/nolTeVx_Emo)
+>* Estos trajes robóticos son de la serie Evangelion. Nos muestran un futuro en que los seres humanos deben pilotear estos mechas y para poder controlarlos a la perfección deben estar sincronizados 100% entre máquina, cuerpo y mente.
+>* El Eva es tan preciso que incluso debe simular dolor para que el piloto no sobrepase sus límites humanos y corra el riesgo de morir. Sin embargo, el robot potencia las capacidades físicas como correr, saltar y golpear. 
+>* El Eva está equipado con armas y escudos protectores. Una característica importante para sobrevivir en un futuro apocalíptico para que el humano pueda circular con seguridad en un contexto de constante peligro.  
+
+
+[Holograma (video)](https://youtu.be/8N_Cj3ZS9-A) - Reuniones digitales
+# [<img src="img/hologrameet.jpg"/>](https://youtu.be/8N_Cj3ZS9-A)
+>* Las reuniones holográficas podrían ser la potencial herramienta para reunirse con las personas de manera digital, simulando de la forma más precisa posible y "real" una instancia de presencia física.
+>* En la saga Starwars vemos a menudo esta tecnología en las reuniones que tiene el consejo Jedi, las llamadas, los mensajes como el del video adjunto, etc. Incluso se pueden ver tableros de juego con esta tecnología. Es un concepto bastante interesante para un contexto como la pandemia actual en la cual debemos quedarnos en nuestras casas pero mantener un constante contacto con la gente por medio de lo virtual.
+
+
+<!---
+Referente Ignacio Saavedra
+-->
+
+
+
 
 
 ## Consideraciones
