@@ -142,6 +142,29 @@ Referente Pablo Cortés
 >* Comentarios del Referente.
 Cada día necesitamos que nuestra energía producida sea más responsable. Hoy la automatización y el despertar de la energía eléctrica. Hoy ya hay privados que se están encargando de cambiar estrategias de inversión y repensar el trasporte de las aerolíneas.La organización de aviación civil internacional estima que, para  el 2050, las emisiones de gases de los aviones se podría triplicar en volumen, a la vez el 4% de gases invernadero pertenecen a los aviones
 
+
+[Stratobus (video)](https://www.youtube.com/watch?v=nvmkendJI2Y) - Thales alenia stratobus
+# [<img src="img/1.jpg"/>](https://elpais.com/tecnologia/2018/07/18/actualidad/1531918670_886202.html)
+>* Comentarios del Referente.
+Hoy la ingeneria de los satelites es importante para el estilo de vida que vivimos, pero su baja vulnerabilidad, y vida util a generado una gran acumulacion de desechos espaciales . dibido a esto que es importante remplantear el modo de trabajo que se esta desarrollando. L a empresa thales Alenia space esta desarrollando stratobus que esta diseñado para proporcionar informacion de vigilancia maritima , telecomunicaciones etc.. a la vez  imagenes de alta resolucion desde largas doistancias. Es un diseño autonomo que cuenta con energia sustentable 
+
+
+[cuidudades del futuro  (video)](https://www.youtube.com/watch?v=yLCUAhGaGsk) - Emergencia y transporte 
+# [<img src="img/2.jpg"/>](https://techstartups.com/2020/01/20/fire-truck-future-can-drive-traffic-emergency-situations/)
+>* Comentarios del Referente.
+Hoy con un ritmo exponencial del crecimiento poblacional que como consecuencia produce cuidades mas congestionadas. el transporte de las instituciones de emergencia se van a ver cada vez mas limitadas en llegar con urgencia a los destinos es por esto que una forma de repensar el traslado es este carro de bomberos que se eleva por encima del trafico. esta lejos de la realidad pero muy serca de replantiarce el traslado de estas instituciones.
+
+[hyperloop  (video)](https://www.youtube.com/watch?v=tJoFOmCUgvg) - transporte del futuro
+# [<img src="img/3.jpg"/>](https://www.spacex.com/hyperloop)
+>* Comentarios del Referente.
+Hyperloop es otro medio de transporte que funciona con tubos al vacio que viaja sin resistencia al aire o a la friccion  trasnportando personas o carga a alta velocidad.
+
+
+[esight 3 (video)](https://www.youtube.com/watch?v=tJoFOmCUgvg) - anteojos 
+# [<img src="img/4.jpg"/>](https://www.spacex.com/hyperloop)
+>* Comentarios del Referente.
+easight3 son unos anteojos que mejoran permite ver a personas con perdida de vision , mejorando la vision 
+
 <!---
 Referente Nico Sanhueza
 -->
