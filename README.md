@@ -76,11 +76,20 @@ Referente de Christian Ortiz
 >* Este scooter eléctrico es de la empresa Moby Products, que puede ser utilizado en diferentes superficies, desde la ciudad hasta la arena de la playa. YX One utiliza el peso corporal para controlar el vehículo. En la actualidad puede ser una buena opción para evitar los medios de transporte masivos y lograr movilidad sin tener que compartir el espacio.
 >* En el video se puede observar la versatilidad de éste scooter que puede facilitar en gran medida el transporte diario en donde se puede avanzar hasta 60 km/hr.
 
+[Transporte en Pods privados]
 # [<img src="img/pods.jpg"/>](https://www.youtube.com/watch?v=BF1RVbnzPfs&feature=youtu.be)
 
 
 >* Heathrow pods funcionan desde el 2011, pero solo se han utilizado para trasportarse por los terminales. Son eléctricos y autónomos. Son cápsulas pequeñas para máximo 4 personas.
 >* Con esta idea podríamos aumentarla a un nivel nacional, siendo el medio de transporte desde los trabajos hasta la playa, conectando el país y ahorrando combustible fósil y contaminante. Además con menos personas en el vehiculo se disminuyen las probabilidades de contagio de cualquier enfermedad o virus.
+
+
+[Hyperloop es un nuevo tipo de tren que circula dentro de un tubo de vacío a más de 1.000 kilómetros por hora]
+# [<img src="img/hyperloop.jpg"/>](https://www.youtube.com/watch?v=DCaIpGNofu8&feature=youtu.be)
+
+
+>* Este tren busca entregar un tranporte rápido que conectaría a New York y Washington en 30 minutos, con hasta 28 personas. 
+>* EN la acualidad el tiempo es una de las cosas más vaiosas que poseemos, es por esto que la idea de un tren a ésta velocidad parecería futurista pero no absurda, ya que resolvería muchos problemas de tiempo y tráfico.
 
 <!---
 Referente Javiera Asfura
@@ -207,6 +216,22 @@ Es curioso que ven esta barrera como algo para una persona... ¿Por qué no verl
 <!---
 Referente Carolina Bustamante
 -->
+
+[Avión Modular (video)](https://www.youtube.com/watch?v=jOlBMy8t8Ew) - Clip-Air
+# [<img src="img/clipair.jpg"/>]
+>* Clip-air es un avión modular que se trasforma en tren para llegar a distintos puntos en la ciudad, transportando pasajeros y otras cargas.
+>* Debido a a pandemia actual, clip-air podría ayudar a disminuir los viajeas aéreos entre países o ciudades, para así tener más un mejor registro sobre el movimiento de las personas. También el hecho de que se transforme en tren, evitaría los grandes lugares en donde las personas tienen que cambiarse de transporte, como por ejemplo un aeropuerto o una estación de tren; los viajes serían directos y con menos flujo de personas.
+
+[Robot Repartidor (video)](https://vimeo.com/320057631) - Roxo
+# [<img src="img/roxorobot.png"/>](https://www.fedex.com/en-us/innovation/roxo-delivery-robot.html)
+>* La principal función del robot Roxo de Fedex es entregar el paquete el mismo día de la compra. Este tiene un sitema de 6 patas, dos pequeñas y 4 grandes co tracción; así consigue desplazarse por diversas superficies, tomar curvas, entre otros. y además cuenta con paneles de visualización delanteros y traseros. 
+>* Actualemnte con el brote de COVID-19, este sistema sería de gran ayuda para que las personas puedan adquerir productos variados sin la necesidad de un mensajero humano; esto evitaría la exposición de personas durante cuarentena y evitaría la propagación del virus. 
+
+
+<!---
+Referente Isidora Puente
+-->
+
 
 ## Consideraciones
 - Las imagenes deben ser subidas en .png, 96dpi máximo, 920x300 px.
