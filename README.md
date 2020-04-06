@@ -111,24 +111,24 @@ Referente Javiera Asfura
 Referente María Ignacia Alcaino
 -->
 
-[Transporte Futuro en Frasco](http://surdaka.blogspot.com/2009/07/el-transporte-del-futuro-es-en-un.html) - frasco
+[Transporte Futuro en Frasco](http://surdaka.blogspot.com/2009/07/el-transporte-del-futuro-es-en-un.html) - Frasco
 # [<img src="img/monorriel.jpg"/>](http://surdaka.blogspot.com/2009/07/el-transporte-del-futuro-es-en-un.html)
 >* Aqui se puede ver como este referente del año 2009, buscaba ser un medio de transporte personal, el cual es muy atingente a lo que se vive hoy con el coronavirus, y cabe destacar que es un transporte autonomo ya que funciona como una bicicleta.
 
 
 
-[cyclotron](https://www.marketingdirecto.com/digital-general/digital/que-tiemble-uber-futurista-bicicleta-electrica-podria-taxi-futuro) - 
+[cyclotron](https://www.marketingdirecto.com/digital-general/digital/que-tiemble-uber-futurista-bicicleta-electrica-podria-taxi-futuro) 
 # [<img src="img/cyclotron.jpg"/>](https://www.marketingdirecto.com/digital-general/digital/que-tiemble-uber-futurista-bicicleta-electrica-podria-taxi-futuro)
 >* Proxima bicicleta altamente segura, que pretendería ser un taxi con espacio para dos personas, guiada por la IA en el que se pinesa de nuevo en la individualidad, pero también en la seguridad.
 
 
 
-[silla de ruedas del futuro](https://www.airwheel.net/sp/news/17664) - 
+[silla de ruedas del futuro](https://www.airwheel.net/sp/news/17664)
 # [<img src="img/silladeruedas.jpg"/>](https://www.airwheel.net/sp/news/17664)
 >* Esta silla plantea seguir solucionando problemas de inclusión, con sus avances pueden ser dde gran ayuda ayuda para la autonomía que busca una persona con problemas de movilidad, sobre todo en este nuevo mundo.
 
 
-[Traje astronauta](https://peru21.pe/vida/z-2-traje-astronautas-iran-marte-156824-noticia/?ref=p21r) - 
+[Traje astronauta](https://peru21.pe/vida/z-2-traje-astronautas-iran-marte-156824-noticia/?ref=p21r)
 # [<img src="img/astronauta.jpg"/>](https://peru21.pe/vida/z-2-traje-astronautas-iran-marte-156824-noticia/?ref=p21r)
 >* Quizas pensado para viajar al espacio y arrivar en marte, pero para la crisis sanitaria que se vive hoy puede abrir una pyerta una idea como esta adaptada al uso cotidiano, para l alibre circulación ante problemas en distintas zonas del planeta.
 
