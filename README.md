@@ -182,12 +182,12 @@ Cada día necesitamos que nuestra energía producida sea más responsable. Hoy l
 Hoy la ingeneria de los satelites es importante para el estilo de vida que vivimos, pero su baja vulnerabilidad, y vida util a generado una gran acumulacion de desechos espaciales . dibido a esto que es importante remplantear el modo de trabajo que se esta desarrollando. L a empresa thales Alenia space esta desarrollando stratobus que esta diseñado para proporcionar informacion de vigilancia maritima , telecomunicaciones etc.. a la vez  imagenes de alta resolucion desde largas doistancias. Es un diseño autonomo que cuenta con energia sustentable 
 
 
-[cuidudades del futuro  (video)](https://www.youtube.com/watch?v=yLCUAhGaGsk) - Emergencia y transporte 
+[Ciududades del futuro  (video)](https://www.youtube.com/watch?v=yLCUAhGaGsk) - Emergencia y transporte 
 # [<img src="img/2.jpg"/>](https://techstartups.com/2020/01/20/fire-truck-future-can-drive-traffic-emergency-situations/)
 >* Comentarios del Referente.
 Hoy con un ritmo exponencial del crecimiento poblacional que como consecuencia produce cuidades mas congestionadas. el transporte de las instituciones de emergencia se van a ver cada vez mas limitadas en llegar con urgencia a los destinos es por esto que una forma de repensar el traslado es este carro de bomberos que se eleva por encima del trafico. esta lejos de la realidad pero muy serca de replantiarce el traslado de estas instituciones.
 
-[hyperloop  (video)](https://www.youtube.com/watch?v=tJoFOmCUgvg) - transporte del futuro
+[Hyperloop  (video)](https://www.youtube.com/watch?v=tJoFOmCUgvg) - transporte del futuro
 # [<img src="img/3.jpg"/>](https://www.spacex.com/hyperloop)
 >* Comentarios del Referente.
 Hyperloop es otro medio de transporte que funciona con tubos al vacio que viaja sin resistencia al aire o a la friccion  trasnportando personas o carga a alta velocidad.
@@ -231,7 +231,7 @@ Nuestro cerebro logra almacenar mucha información y aquí el referente da la im
 
 [Robots (video)](https://www.youtube.com/watch?v=EZZUwU9ZRsQ) - Reinventarse
 # [<img src="img/robots.jpg"/>](https://www.youtube.com/watch?v=zTQAKrX4oUk&feature=youtu.be)
->*Nuestra necesidades son distintas desde nuestro contexto socioeconómico, por lo que si bien esta se presenta como una necesidad robot, se pone sobre la mesa la importancia de reparar y la importancia de conocerse mejor. El futuro antes se veia como algo frio y distante pero el humano tiene la necesidad de humanizarse aun mas, generar empatia y conexion con su entorno. "No importa de lo que estes hecho, puedes brillar"
+>* Nuestra necesidades son distintas desde nuestro contexto socioeconómico, por lo que si bien esta se presenta como una necesidad robot, se pone sobre la mesa la importancia de reparar y la importancia de conocerse mejor. El futuro antes se veia como algo frio y distante pero el humano tiene la necesidad de humanizarse aun mas, generar empatia y conexion con su entorno. "No importa de lo que estes hecho, puedes brillar"
 
 
 <!---
@@ -259,13 +259,13 @@ Lo más emocionante de este proyecto es que no solo tienen capacidad para ayudar
 
 [Silla de rueda inteligente (video)](https://www.youtube.com/watch?v=6LfE3mQzLNY&feature=emb_logo) - Silla inteligente
 # [<img src="img/hoobox-silla-de-ruedas.png"/>](https://www.youtube.com/watch?v=6LfE3mQzLNY&feature=emb_logo)
->*La nueva empresa brasileña Hoobox Robotics ha colaborado con Intel para producir un kit adaptador que permite que casi cualquier silla de ruedas eléctrica sea controlada por las expresiones faciales del usuario. El kit equipa una silla de ruedas con inteligencia artificial para detectar las expresiones del usuario y procesar los datos en tiempo real para dirigir el movimiento de la silla.
+>* La nueva empresa brasileña Hoobox Robotics ha colaborado con Intel para producir un kit adaptador que permite que casi cualquier silla de ruedas eléctrica sea controlada por las expresiones faciales del usuario. El kit equipa una silla de ruedas con inteligencia artificial para detectar las expresiones del usuario y procesar los datos en tiempo real para dirigir el movimiento de la silla.
 El reconocimiento que lograron generar se podría escalar para las señas que se realizan en el LGCH o de otros países, y no solo eso sino que impedir gestos obscenos en videos u otros con el simple recogimiento además de darle a las maquinas la habilidad de entender nuestros gestos entre otros.
 
 
 [Escudo individual vs covid-19](https://www.dezeen.com/2020/02/26/sun-dayong-coronavirus-protection-shield/?li_source=LI&li_medium=bottom_block_1) - Silla inteligente
 # [<img src="img/escudo-portatil.png"/>](https://www.dezeen.com/2020/02/26/sun-dayong-coronavirus-protection-shield/?li_source=LI&li_medium=bottom_block_1)
->*El arquitecto chino Sun Dayong creo un diseño conceptual para un escudo corporal que protegería a un usuario durante un brote de coronavirus utilizando luz UV para esterilizarse. Llamado Be a Bat Man, el dispositivo de seguridad móvil.
+>* El arquitecto chino Sun Dayong creo un diseño conceptual para un escudo corporal que protegería a un usuario durante un brote de coronavirus utilizando luz UV para esterilizarse. Llamado Be a Bat Man, el dispositivo de seguridad móvil.
 Después de contener una epidemia, piensa que los escudos tipo murciélago podrían actualizarse con la tecnología Google Glass, o simplemente usarse como un "espacio móvil privado único para las personas".
 Es curioso que ven esta barrera como algo para una persona... ¿Por qué no verlo para uso más masivo? ¿tal vez una barrera para una ciudad u edificio? esta tecnología se podría escalar aún más.
 
@@ -273,7 +273,7 @@ Es curioso que ven esta barrera como algo para una persona... ¿Por qué no verl
 # [<img src="img/traje-de-masturbacion.png"/>](https://www.dezeen.com/2019/07/24/ripple-masturbation-suit-sex-aid-design/?li_source=LI&li_medium=bottom_block_1)
 >* Los diseñadores Hsin-Jou Huang, Szu-Ying Lai y Chia-Ning Hsu ayudan a las personas con discapacidad  a satisfacer sus necesidades sexuales con una herramienta de masturbación de tres partes que incluye un traje, una máscara y un control remoto. El kit de ayuda sexual, llamado Ripple, está diseñado para personas con limitaciones funcionales de moderadas a severas, que requieren cuidadores para ayudarlos en las tareas cotidianas.
 Funciona para estimular todos los sentidos, incluidos el tacto, la vista, el sonido y el olfato, a través de tres objetos diferentes: un traje de cuerpo acolchado e inflable, un control remoto con un receptor y una máscara para los ojos con auriculares, que también libera feromonas.
-* El kit en infividual para la privacidad de la persona y tambien para ayudar su tranquilidad y placer. Este podria usarse de forma más masiva para evitar el contacto con sus parejas en estos momentos, debido al covid, aislados y distanciados. Ademas el efecto de la sensacion de tacto y calor podria servir tambien como un tipo de terapia para enfermedades. Ser libre sexual mente es algo que hoy en dia cada vez se es más comun en la gente. 
+>* El kit en infividual para la privacidad de la persona y tambien para ayudar su tranquilidad y placer. Este podria usarse de forma más masiva para evitar el contacto con sus parejas en estos momentos, debido al covid, aislados y distanciados. Ademas el efecto de la sensacion de tacto y calor podria servir tambien como un tipo de terapia para enfermedades. Ser libre sexual mente es algo que hoy en dia cada vez se es más comun en la gente. 
 
 <!---
 Referente Carolina Bustamante
