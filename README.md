@@ -172,6 +172,14 @@ Referente Max Pino
 >* La exploración de nuestro cuerpo determina nuevas variantes a la misma composición órganica. Con el concepto de bio hacking nacen (aunque ya hace bastante tiempo) nuevas contradicciones éticas sobre que debemos y que podemos hacer al momento de modificar la naturaleza.
 >* La visión a largo plazo de la modificación genética nos podría llevar a mejorar nuestros cuerpos en términos de salud, conectándonos orgánicamente con la tecnología eléctrica, o hasta nuestros colores de ojo. Al mismo tiempo se puede direccionar hacia la modificación de especies, tal como los mosquitos, para quitarles el factor vectorial de muchas enfermedades que esparcen.
 
+[Rivian Trucks (video)](https://www.youtube.com/watch?v=QMfxJEfb4lw) - Camioneta 100% electrica.
+# [<img src="img/rivian.jpg">](https://rivian.com/)
+
+>* La tecnología en movilización nos muestra nuevamente la supremacía de los autos eléctricos por sobre los de combustión. Si bien ya todos conocemos la tecnología, la empresa Rivian nos muestra como se extrapola la visión de auto eléctrico a lo todo terreno.
+>* Los modelos de autos creados por la empresa nos muestra la eficiencia de los motores eléctricos, como superan en comparación a otras camionetas de alta gama pero de combustión. El espacio que se gana gracias a que los motores se encuentran en las mismas ruedas nos puede llevar a pensar como se puede administrar realmente el espacio de un auto, dejando de lado la idea de el capo frontal conteniendo el motor.
+
+
+
 <!---
 Referente Pablo Cortés
 -->
