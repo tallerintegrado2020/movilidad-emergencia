@@ -111,11 +111,18 @@ Referente Max Pino
 >* Dado a los brotes del virus CODVID-19, esta forma de dristribución de bienes podría ayudar a la aislación de personas en cuarentena, al igual que al acceso a zonas de difícil conexión.
 
 
-[Hydrofoil Bike (video)](https://www.youtube.com/watch?v=Ihc92mldu60) - Bicicleta electrica basado en Hydrofoil.
+[Hydrofoil Bike (video)](https://www.youtube.com/watch?v=Ihc92mldu60) - Bicicleta eléctrica basado en Hydrofoil.
 # [<img src="img/manta5.jpg">](https://manta5.com/)
 
 >* Manta 5 nos muestra como se puede reinventar la movilización acuatica en base a tecnología hydrofoil, la cual se sustenta en la reducción de roce con el agua mejorando eficientemente la energía gastada al momento de mover un objeto.
 >* Al estar pensada de una manera eficiente, la movilización puede evolucionar a una manera más veloz y mas sustentable energeticamente.
+
+["The Surrogates" (video)](https://www.youtube.com/watch?v=UGwQ74cH5O0) - Sustitutos del cuerpo orgánico.
+# [<img src="img/lossustitutos.jpg">](https://www.imdb.com/title/tt0986263/plotsummary)
+
+>* La película basa en un comic nos muestra como las personas dejan su cuerpo orgánico por cuerpos mecánicos para hacer su día a día.
+>* Nos muestra como la percepción del cuerpo frágil va aumentando, por lo que las personas empiezan a elegir no salir tal como ellos, si no que inventan este "escudo" que los hace sentir a salvo.
+>* En un futuro (utópico o distópico), van a aumentar el porcentaje de enfermedades emergentes, por lo que vamos a tener que encontrar alternativas fuera de lo común para poder hacer nuestro día cotidiano.
 
 <!---
 Referente Pablo Cortés
