@@ -1,6 +1,6 @@
 # [<img src="img/header.png"/>](https://github.com/tallerintegrado2020/movilidad-emergencia)
 
-# movilidad-emergencia
+# Movilidad Emergencia - Referentes Taller Integrado MID UAI 2020
 
 [Futuro del transporte 2050 (video)](https://www.youtube.com/watch?v=CUS2w4y2Qj4) - Video de futuros posibles del transporte para el 2050.
 # [<img src="img/car.png"/>](https://www.youtube.com/watch?v=CUS2w4y2Qj4)
@@ -11,9 +11,9 @@
 Referente Pedro Garretón
 -->
 
-[Drone Medico (video)](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoSqLZNKhTZ) - Drone
+<!-- [Drone Medico (video)](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoSqLZNKhTZ) - Drone
 # [<img src="img/dron.png"/>](https://hitconsultant.net/2020/03/10/matternet-secure-medical-drone-delivery-portal-hospitals/#.XoSqLZNKhTZ)
->* Comentarios del Referente.
+>* Comentarios del Referente. -->
 
 <!---
 Referente Pedro Garretón
@@ -27,8 +27,7 @@ Referente Pedro Garretón
 [Multicoaster](https://engineered.thyssenkrupp.com/en/multicoaster-revealed-introducing-the-roller-coaster-of-tomorrow/) - MULTIcoaster
 # [<img src="img/coaster.png"/>](https://engineered.thyssenkrupp.com/en/multicoaster-revealed-introducing-the-roller-coaster-of-tomorrow/)
 >* Como una montaña rusa alrededor de la ciudad. Son unidades separadas que transportan a una persona o familia pequeña. El usuario es capaz de elegir su ruta una vez que entró a la compuerta, entregando una experiencia única en cada viaje. Para prevenir choques y accidentes, contiene un sistema con inteligencia artificial que coordina el conjunto de viajes. Cada cabina puede avanzar hacia atras y adelante, lo que amplía las posibilidades de trayectos. Viajar en montaña rusa desde tu casa hacia tu trabajo, de manera ecoamigable y mucho más rápida que el metro.
-
-La idea de que sean cabinas separas que transportan solo a personas que viven juntas, ayuda a disminuir el contagio de enfermedades e incentiva el aislamiento. Cada cubículo tiene la tecnología necesaria para investigar el aire de su espacio, por lo que se lleva un control preciso si aparece una persona enferma o con un virus. Así se aisla inmediatamente al ser humano y se evita la propagación de la enfermedad.  
+>* La idea de que sean cabinas separas que transportan solo a personas que viven juntas, ayuda a disminuir el contagio de enfermedades e incentiva el aislamiento. Cada cubículo tiene la tecnología necesaria para investigar el aire de su espacio, por lo que se lleva un control preciso si aparece una persona enferma o con un virus. Así se aisla inmediatamente al ser humano y se evita la propagación de la enfermedad.  
 
 [Caminando sobre el agua](https://www.youtube.com/watch?v=KB-7doKro_0) - Caminando sobre el agua
 # [<img src="img/pelota.png"/>](https://www.youtube.com/watch?v=KB-7doKro_0)
@@ -38,8 +37,7 @@ La idea de que sean cabinas separas que transportan solo a personas que viven ju
 [Zapatillas del futuro](https://www.businessinsider.es/zapatillas-futuro-seran-reciclables-contaran-pasos-474027) - Zapatillas del futuro
 # [<img src="img/tillas.png"/>](https://www.businessinsider.es/zapatillas-futuro-seran-reciclables-contaran-pasos-474027)
 >* Zapatillas ecoamigables: 100% reciclables  creadas con un ciclo completamente cerrado. Biofibras de algas que pueden hacer que las zapatillas crezcan, así se reduce la compra constante de nuevas zapatillas debido a cambios de talla.  
-
-En cuanto a los estados de emergencia los pasos serán rastreados gracias a las zapatillas. De esta manera se llevará un mapa de los pasos que cada personas hace, para lograr tener un control total durante las cuarentenas y toques de queda.     
+>*En cuanto a los estados de emergencia los pasos serán rastreados gracias a las zapatillas. De esta manera se llevará un mapa de los pasos que cada personas hace, para lograr tener un control total durante las cuarentenas y toques de queda.     
 
 
 [Postmodern Skateboard](https://www.youtube.com/watch?v=YiK0RD7WGGI) - Postmodern Skateboard
@@ -49,8 +47,7 @@ En cuanto a los estados de emergencia los pasos serán rastreados gracias a las 
 [Ascensor espacial](https://www.technologyreview.es/s/11458/el-futuro-viaje-de-la-tierra-la-luna-bordo-de-un-ascensor-espacial) - Ascensor espacial
 # [<img src="img/ascensor.png"/>](https://www.technologyreview.es/s/11458/el-futuro-viaje-de-la-tierra-la-luna-bordo-de-un-ascensor-espacial)
 >* Un ascensor que nos llevará al espacio debido al mal estado en el que dejamos la tierra. Las nuevas enfermedades creadas por el ser humano, debido al consumo de animales, nos obligaron a escapar a otros planetas y volverlos habitables. No fuimos capaces de encontrar curas para los virus, y las medidas de aislamiento no fueron suficientes para combatir y superar las situaciones de emergencia. 
-
-Este ascensor es alimentado por energía solar y se mantiene en funcionamiento por las fuerzas centrífugas. Los primeros viajes serán hacia la luna, el túnel colgará desde allá hacia la tierra. Así orbitaría solo una vez al mes.  
+>* Este ascensor es alimentado por energía solar y se mantiene en funcionamiento por las fuerzas centrífugas. Los primeros viajes serán hacia la luna, el túnel colgará desde allá hacia la tierra. Así orbitaría solo una vez al mes.  
 
 [Megacities](https://engineered.thyssenkrupp.com/en/life-above-the-smog/) - Sobre el smog
 # [<img src="img/smog.png"/>](https://engineered.thyssenkrupp.com/en/life-above-the-smog/)
@@ -76,7 +73,7 @@ Referente de Christian Ortiz
 >* Este scooter eléctrico es de la empresa Moby Products, que puede ser utilizado en diferentes superficies, desde la ciudad hasta la arena de la playa. YX One utiliza el peso corporal para controlar el vehículo. En la actualidad puede ser una buena opción para evitar los medios de transporte masivos y lograr movilidad sin tener que compartir el espacio.
 >* En el video se puede observar la versatilidad de éste scooter que puede facilitar en gran medida el transporte diario en donde se puede avanzar hasta 60 km/hr.
 
-[Transporte en Pods privados]
+Transporte en Pods privados
 # [<img src="img/pods.jpg"/>](https://www.youtube.com/watch?v=BF1RVbnzPfs&feature=youtu.be)
 
 
@@ -84,7 +81,7 @@ Referente de Christian Ortiz
 >* Con esta idea podríamos aumentarla a un nivel nacional, siendo el medio de transporte desde los trabajos hasta la playa, conectando el país y ahorrando combustible fósil y contaminante. Además con menos personas en el vehiculo se disminuyen las probabilidades de contagio de cualquier enfermedad o virus.
 
 
-[Hyperloop es un nuevo tipo de tren que circula dentro de un tubo de vacío a más de 1.000 kilómetros por hora]
+Hyperloop es un nuevo tipo de tren que circula dentro de un tubo de vacío a más de 1.000 kilómetros por hora
 # [<img src="img/hyperloop.jpg"/>](https://www.youtube.com/watch?v=DCaIpGNofu8&feature=youtu.be)
 
 
@@ -241,7 +238,7 @@ Referente Carolina Bustamante
 -->
 
 [Avión Modular (video)](https://www.youtube.com/watch?v=jOlBMy8t8Ew) - Clip-Air
-# [<img src="img/clipair.jpg"/>]
+# <img src="img/clipair.jpg"/>
 >* Clip-air es un avión modular que se trasforma en tren para llegar a distintos puntos en la ciudad, transportando pasajeros y otras cargas.
 >* Debido a a pandemia actual, clip-air podría ayudar a disminuir los viajeas aéreos entre países o ciudades, para así tener más un mejor registro sobre el movimiento de las personas. También el hecho de que se transforme en tren, evitaría los grandes lugares en donde las personas tienen que cambiarse de transporte, como por ejemplo un aeropuerto o una estación de tren; los viajes serían directos y con menos flujo de personas.
 
