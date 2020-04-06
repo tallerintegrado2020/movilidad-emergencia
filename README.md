@@ -19,12 +19,15 @@ Referente Pedro Garretón
 Referente Pedro Garretón
 -->
 
-[Cyclotron Bike](https://www.youtube.com/watch?v=XAk6Nt1G5YU) - Cyclotron Bike
-# [<img src="img/Cyclotron.png"/>](https://www.youtube.com/watch?v=XAk6Nt1G5YU)
->* Bici eléctrica que facilita la movilidad de cortos y largos trayectos. Eco amigable y asequible. Somos seres que necesitan estar en movimiento, cada día tenemos menos tiempo para hacer deporte, por lo que movilizándonos en bicicleta aprovecharemos de realizar actividad física todos los días. A diferencia de los vehículos motorizados, Cyclotron incentiva el deporte y disminuirá los porcentajes de sobrepeso en la población. 
+[Aerolineas electricas (video)](https://tecno.americaeconomia.com/articulos/aviones-electricos-el-futuro-de-la-aeronautica) - Drone
+# [<img src="img/avion.jpg"/>](https://tecno.americaeconomia.com/articulos/aviones-electricos-el-futuro-de-la-aeronautica)
+>* Comentarios del Referente.
+Cada día necesitamos que nuestra energía producida sea más responsable. Hoy la automatización y el despertar de la energía eléctrica. Hoy ya hay privados que se están encargando de cambiar estrategias de inversión y repensar el trasporte de las aerolíneas.La organización de aviación civil internacional estima que, para  el 2050, las emisiones de gases de los aviones se podría triplicar en volumen, a la vez el 4% de gases invernadero pertenecen a los aviones
+
 <!---
-Referente Victoria Roi
+Referente Nico Sanhueza
 -->
+
 
 
 
