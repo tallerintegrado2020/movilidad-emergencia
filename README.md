@@ -98,12 +98,12 @@ Referente Javiera Asfura
 >* Podría ser realidad una nueva forma de movilidad en el futuro, donde al encontrarse el planeta tierra infectado por virus y personas contagiadas, se deben proteger muy bien a las personas sanas y eventualmente podria comenzar una nueva movilidad de personas de la tierra al espacio mientras se encuentra una cura.
 
 [BALLIE ROBOT (video)](https://www.youtube.com/watch?time_continue=81&v=Xwi_U-g3wA0&feature=emb_logo) - Ballie Samsung Robot.
-# [<img src="img/BALLIEROBOT.png"/>]
+# <img src="img/BALLIEROBOT.png"/>
 >* En este video se muestra un robot lanzado por Samsung, el cual ayuda con distintas tareas en la casa, tales como levantar a la persona, encender la aspiradora cuando es necesario, entretener a una mascota, y hacer compañía.
 >* Podría ser muy útil actualmente para personas que viven solas y se encuentran enfermas y no tienen quien los ayude con las tareas de la casa, o simplemente para personas que viven solas, y no tienen mascotas y necesitan compañía.
 
 [DRONE DELIVERY (video)](https://www.youtube.com/watch?v=EZ4uczr19io) - Dragonfly Drone Delivery.
-# [<img src="img/DRONEDELIVERY.png"/>]
+# <img src="img/DRONEDELIVERY.png"/>
 >* En este video se muestra un prototipo de delivery a través de drone. La base donde se encuentran los productos que deben ser entregados, se encuentran en un tipo de plataforma en el mar.
 >* Podría ser muy útil actualmente para las entregas, tanto de medicinas como productos comprados por internet, donde se evita la circulación de personas, a parte de ser mas rápido y efectivo y menos contaminante.
 
