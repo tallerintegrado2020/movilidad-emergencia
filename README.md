@@ -110,6 +110,13 @@ Referente Max Pino
 >* Si bien es un concepto utilizado por Amazon basado en sus ventas, se podría extrapolar facilmente en la distribución de articulos de necesidades básicas y artículos medicos.
 >* Dado a los brotes del virus CODVID-19, esta forma de dristribución de bienes podría ayudar a la aislación de personas en cuarentena, al igual que al acceso a zonas de difícil conexión.
 
+
+[Hydrofoil Bike (video)](https://www.youtube.com/watch?v=Ihc92mldu60) - Bicicleta electrica basado en Hydrofoil.
+# [<img src="img/manta5.jpg">](https://manta5.com/)
+
+>* Manta 5 nos muestra como se puede reinventar la movilización acuatica en base a tecnología hydrofoil, la cual se sustenta en la reducción de roce con el agua mejorando eficientemente la energía gastada al momento de mover un objeto.
+>* Al estar pensada de una manera eficiente, la movilización puede evolucionar a una manera más veloz y mas sustentable energeticamente.
+
 <!---
 Referente Pablo Cortés
 -->
