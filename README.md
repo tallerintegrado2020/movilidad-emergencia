@@ -347,6 +347,18 @@ Referente Isidora Puente
 >* Las reuniones holográficas podrían ser la potencial herramienta para reunirse con las personas de manera digital, simulando de la forma más precisa posible y "real" una instancia de presencia física.
 >* En la saga Starwars vemos a menudo esta tecnología en las reuniones que tiene el consejo Jedi, las llamadas, los mensajes como el del video adjunto, etc. Incluso se pueden ver tableros de juego con esta tecnología. Es un concepto bastante interesante para un contexto como la pandemia actual en la cual debemos quedarnos en nuestras casas pero mantener un constante contacto con la gente por medio de lo virtual.
 
+[Equipo de maniobras tridimensional (gif)](https://media.giphy.com/media/bqlDXCsJnNBFS/giphy.gif) - Wearables/Concept
+# [<img src="img/equipotridimensional.jpg"/>](https://media.giphy.com/media/bqlDXCsJnNBFS/giphy.gif)
+>* Este equipo es un wearable/extensión del cuerpo humano para moverse a grandes velocidades con agilidad y destreza entre pilares, edificios, árboles y titanes. Es de una serie de animación japonesa llamada Shingeki no Kyojin. 
+Lo interesante de este objeto, es que los japoneses siempre logran ponerse en la perspectiva menos esperada con sus ideas. Dichas son plasmadas en el anime, y a pesar de ser elementos ficticios, no dejan de ser conceptos de adaptación móvil en un entorno apocalíptico, en donde la tierra presenta ciertas condiciones que impiden al ser humano moverse en el piso. 
+>* El equipo de maniobras 3D supera los límites de velocidad y posicionamiento que tiene el cuerpo humano, otorgándole adhesión a superficies rígidas, grandes alturas, espacios anchos y estrechos. Todo con accesorios como cuerda de acero, ganchos, gatillos y estanques de gas que impulsan los saltos. Ahora bien ¿Qué tiene que ver esto con la pandemia? Sin duda, es algo que parece ajeno a simple vista, pero esta serie muestra inventos nuevos que desarrolla la humanidad para anteponerse a futuros problemas, en un contexto distinto al real, pero no tan distante, ya que deben vivir tras unos muros que limitan su libertad. El COVID-19 ahora mismo es ese muro, por esa razón creo que la creatividad japonesa es un buen referente para tomar elementos existentes y re-configurarlos a nuestros problemas.
+
+
+[Máscara de oxígeno (video)](https://www.youtube.com/watch?v=4w6N8cSFCvA&t=57s) - Wearables
+# [<img src="img/metromask.jpg"/>](https://www.youtube.com/watch?v=4w6N8cSFCvA&t=57s)
+>* Este wearable/extensión pertenece a un videojuego post apocalíptico llamado Metro. Lo escogí por el concepto que representa; un accesorio que lleva toda/o ciudadana/o en su equipamiento porque existen áreas en las que no se puede respirar debido a gases tóxicos que permanecen en el ambiente y son letales para el sistema respiratorio.
+>* La máscara de oxígeno de Metro funciona con cápsulas de oxígeno y filtros que permiten respirar en un determinado tiempo, sin exponerse a las zonas de gases tóxicos. Basta con tener las suficientes para un viaje, rotarlas en la boquilla y activar el oxígeno. Además, este objeto cuenta con un reloj temporizador que te avisa cuando el oxígeno se está acabando para que prepares la recarga.
+>* Tomé este concepto porque combina dispositivos digitales de información con elementos físicos, que permiten mejorar la experiencia en el ser humano para movilizarse en áreas de alto riesgo por condiciones infecciosas. 
 
 <!---
 Referente Ignacio Saavedra
