@@ -88,6 +88,22 @@ Hyperloop es un nuevo tipo de tren que circula dentro de un tubo de vacío a má
 >* Este tren busca entregar un tranporte rápido que conectaría a New York y Washington en 30 minutos, con hasta 28 personas. 
 >* EN la acualidad el tiempo es una de las cosas más vaiosas que poseemos, es por esto que la idea de un tren a ésta velocidad parecería futurista pero no absurda, ya que resolvería muchos problemas de tiempo y tráfico.
 
+
+Máquina del tiempo DeLorean
+# [<img src="img/delorean.jpg"/>](https://www.youtube.com/watch?v=OCWYRkQNhOo&feature=youtu.be)
+
+
+>* Es un artefacto ficticio de la película volver al futuro, en donde utilizan este vehiculo para viajar por el tiempo y así cambiar cosas del pasado o prevenir cosas del futuro.
+>* Éste artefacto podría ser útil en la actualidad para volver al pasado y así detener la pandemía del coronavirus, o ir al futuro y obtener la cura de éste virus.
+
+[Submarinos civiles e individuales]
+# [<img src="img/sumarino.jpg"/>](https://www.youtube.com/watch?v=bx94bszaJqo&feature=youtu.be)
+
+
+>* Los submarinos civiles son mas pequeños que los militares, tienen capacidad entre 25 y 50 pasajeros y tienen un diseño variable dependiendo de las circunstancias en las que se utilicen.
+>* Éste artefacto podría ser útil para el transporte de pasajeros por debajo del mar, de ésta forma podemos evitar el contacto con personas y contaminación de otros medios de transporte. En los casos de submarinos individuales hasta 4 personas se pueden utilizar para transportarse seguro sin tener que tener contácto con otras personas.
+
+
 <!---
 Referente Javiera Asfura
 -->
@@ -171,6 +187,14 @@ Referente Max Pino
 
 >* La exploración de nuestro cuerpo determina nuevas variantes a la misma composición órganica. Con el concepto de bio hacking nacen (aunque ya hace bastante tiempo) nuevas contradicciones éticas sobre que debemos y que podemos hacer al momento de modificar la naturaleza.
 >* La visión a largo plazo de la modificación genética nos podría llevar a mejorar nuestros cuerpos en términos de salud, conectándonos orgánicamente con la tecnología eléctrica, o hasta nuestros colores de ojo. Al mismo tiempo se puede direccionar hacia la modificación de especies, tal como los mosquitos, para quitarles el factor vectorial de muchas enfermedades que esparcen.
+
+[Rivian Trucks (video)](https://www.youtube.com/watch?v=QMfxJEfb4lw) - Camioneta 100% electrica.
+# [<img src="img/rivian.jpg">](https://rivian.com/)
+
+>* La tecnología en movilización nos muestra nuevamente la supremacía de los autos eléctricos por sobre los de combustión. Si bien ya todos conocemos la tecnología, la empresa Rivian nos muestra como se extrapola la visión de auto eléctrico a lo todo terreno.
+>* Los modelos de autos creados por la empresa nos muestra la eficiencia de los motores eléctricos, como superan en comparación a otras camionetas de alta gama pero de combustión. El espacio que se gana gracias a que los motores se encuentran en las mismas ruedas nos puede llevar a pensar como se puede administrar realmente el espacio de un auto, dejando de lado la idea de el capo frontal conteniendo el motor.
+
+
 
 <!---
 Referente Pablo Cortés
@@ -295,6 +319,11 @@ Referente Carolina Bustamante
 >* La principal función del robot Roxo de Fedex es entregar el paquete el mismo día de la compra. Este tiene un sitema de 6 patas, dos pequeñas y 4 grandes co tracción; así consigue desplazarse por diversas superficies, tomar curvas, entre otros. y además cuenta con paneles de visualización delanteros y traseros. 
 >* Actualemnte con el brote de COVID-19, este sistema sería de gran ayuda para que las personas puedan adquerir productos variados sin la necesidad de un mensajero humano; esto evitaría la exposición de personas durante cuarentena y evitaría la propagación del virus. 
 
+[Solar Impulse (video)](https://www.youtube.com/user/SolarImpulseChannel/featured)
+# [<img src="img/solarimpulse.jpg"/>](https://solarimpulse.com/)
+>* Solar impulse es un proyecto que desarrolla aviones que se alimnetan unicamente con luz solar. Siendo una solución rentable para proteger el medio ambiente. 
+>* Actualmente los centros médicos se encuentran colapsados con la gran cantidad de pacientes debido al covid-19, y también se encuentra escaso de insumos. Al ocupar medios de transporte que funcionan con paneles solares, se ahorrarían los recursos que se ocupaban para los otros tipos de combustible; por lo tanto podrían ocuparse en donde más se necesitan, además de que los transportes de emergencias serían de un menor costo. 
+
 
 <!---
 Referente Isidora Puente
@@ -322,6 +351,21 @@ Referente Isidora Puente
 <!---
 Referente Ignacio Saavedra
 -->
+
+[Google glass (video)](https://www.youtube.com/watch?v=4EvNxWhskf8) - Google Glass
+# [<img src="img/google_glass.jpg"/>](https://www.google.com/glass/start/)
+>* Comentarios del Referente.
+La necesidad de simplificar y diversificar el alcance de la teconoglía a algo más natural es una lucha constante. La idea de Google Glass es precisamente esto, conectar la información en un sitio, sin la necesidad de quitar la vista del foco principal del usuario, optimizando la conectividad, y focalizando lo móvil hacia un solo lugar.
+
+[Nuro (video)](https://www.youtube.com/watch?v=ksyiIqf3HMU) - Nuro, el futuro de las compras on line
+# [<img src="img/nuro.jpg"/>](https://criptotendencia.com/2019/02/12/del-supermercado-directo-a-su-casa-a-traves-del-robot-nuro-el-vehiculo-autonomo-de-softbank/)
+>* Comentarios del Referente.
+La conectividad hoy en día, con la pandemia que sufrimos a nivel global, se ve totalmente afectada por los riesgos que conlleva salir de la casa, o incluso recibir un delivery a cargo de un ser humano. Nuro propone acabar con esto, con un vehículo inteligente que va, desde el supermercado, directo a tu casa.
+
+<!---
+Referente Nico Vallejos
+-->
+
 
 
 
