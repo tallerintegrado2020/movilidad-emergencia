@@ -272,6 +272,25 @@ Gabriela Arisel
 # [<img src="img/Amusphere2.png"/>](https://www.youtube.com/watch?v=IBlpodGjBLU)
 >* En este video se muestra como la tecnologia esta más cerca del control de objetos mediante nuestra mente. Un referente claro de donde surgió esta idea es una saga de anime llamada [SwordArtOnline](https://www.youtube.com/watch?v=W7SzlqdrkbA) 
 
+
+[Oculus Quest](https://www.youtube.com/watch?v=2VkO-Kc3vks) - Hand Tracking 
+# [<img src="img/OculusQuest.png"/>](https://www.youtube.com/watch?v=2VkO-Kc3vks)
+>* En este video se muestra como la tecnología de la realidad virtual utiliza cada vez menos objetos para realizar actos, por ejemplo ese Oculus Quest, solo tiene censores en el visor los cuales permite escanear lo que hace el usario con las manos sin necesidad de tener controles. Este avance podría solucionar grandes temas de movilidad puesto que solo necesitaremos una visores para poder comunicarnos con el otro en cualquier parte del mundo.
+
+
+[Elon Musk](https://www.youtube.com/watch?v=R3G5fzz76lQ) - Mind-Reading Technologhy
+# [<img src="img/ElonMusk.png"/>](https://www.youtube.com/watch?v=R3G5fzz76lQ)
+>* Este jóven visionario intenta solucionar varios temas sobre la inmersion total, esto ayudaria en parte de la medicina a las personas con enfermedades de etapas avanzadas que requieran estar en la clinica y no se puedan mover, un ejemplo [SwordArtOnline](https://www.youtube.com/watch?v=i7C-Xh7cnJs)
+
+[Ordinal Scale](https://www.youtube.com/watch?v=OLpT9BpznlM&t=7s) - Virtual Reality AR
+# [<img src="img/OrdinalScale.png"/>](https://www.youtube.com/watch?v=OLpT9BpznlM&t=7s)
+>* Este ejemplo de anime, ejemplifica cómo podría ayudar la realidad virtual para hacer deporte, conectarse con familiares o amigos, etc.Dentro de casa.
+
+[UBEREATS](https://www.youtube.com/watch?v=0yMv16p8FO8) - Delivering with Drones
+# [<img src="img/FoodEats.png"/>](https://www.youtube.com/watch?v=0yMv16p8FO8)
+>* Este avance ayudaria en estos tiempos de crisis a transportar el alimento sin ser tocado por terceros (repartidores), además como va por el aire hacia su destino, en el transcurso no tendría ningún agente externo que pueda contaminar el contenido, a esto me refiero caminos mal hechos, personas que quieran hacer alguna interferencia, etc.
+
+
 <!---
 Referente Ignacio Zuñiga
 -->
