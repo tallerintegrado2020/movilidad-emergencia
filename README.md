@@ -92,6 +92,22 @@ Hyperloop es un nuevo tipo de tren que circula dentro de un tubo de vacío a má
 >* Este tren busca entregar un tranporte rápido que conectaría a New York y Washington en 30 minutos, con hasta 28 personas. 
 >* EN la acualidad el tiempo es una de las cosas más vaiosas que poseemos, es por esto que la idea de un tren a ésta velocidad parecería futurista pero no absurda, ya que resolvería muchos problemas de tiempo y tráfico.
 
+
+Máquina del tiempo DeLorean
+# [<img src="img/delorean.jpg"/>](https://www.youtube.com/watch?v=OCWYRkQNhOo&feature=youtu.be)
+
+
+>* Es un artefacto ficticio de la película volver al futuro, en donde utilizan este vehiculo para viajar por el tiempo y así cambiar cosas del pasado o prevenir cosas del futuro.
+>* Éste artefacto podría ser útil en la actualidad para volver al pasado y así detener la pandemía del coronavirus, o ir al futuro y obtener la cura de éste virus.
+
+[Submarinos civiles e individuales]
+# [<img src="img/sumarino.jpg"/>](https://www.youtube.com/watch?v=bx94bszaJqo&feature=youtu.be)
+
+
+>* Los submarinos civiles son mas pequeños que los militares, tienen capacidad entre 25 y 50 pasajeros y tienen un diseño variable dependiendo de las circunstancias en las que se utilicen.
+>* Éste artefacto podría ser útil para el transporte de pasajeros por debajo del mar, de ésta forma podemos evitar el contacto con personas y contaminación de otros medios de transporte. En los casos de submarinos individuales hasta 4 personas se pueden utilizar para transportarse seguro sin tener que tener contácto con otras personas.
+
+
 <!---
 Referente Javiera Asfura
 -->
@@ -170,6 +186,20 @@ Referente Max Pino
 >* Nos muestra como la percepción del cuerpo frágil va aumentando, por lo que las personas empiezan a elegir no salir tal como ellos, si no que inventan este "escudo" que los hace sentir a salvo.
 >* En un futuro (utópico o distópico), van a aumentar el porcentaje de enfermedades emergentes, por lo que vamos a tener que encontrar alternativas fuera de lo común para poder hacer nuestro día cotidiano.
 
+[(Un)Natural Selection (video)](https://www.youtube.com/watch?v=WIIVh7H6nvI) - Futuro del Bio-Hacking.
+# [<img src="img/unnaturalselection.jpg">](https://www.theguardian.com/tv-and-radio/2019/oct/17/unnatural-selection-netflix-docuseries-gene-editing)
+
+>* La exploración de nuestro cuerpo determina nuevas variantes a la misma composición órganica. Con el concepto de bio hacking nacen (aunque ya hace bastante tiempo) nuevas contradicciones éticas sobre que debemos y que podemos hacer al momento de modificar la naturaleza.
+>* La visión a largo plazo de la modificación genética nos podría llevar a mejorar nuestros cuerpos en términos de salud, conectándonos orgánicamente con la tecnología eléctrica, o hasta nuestros colores de ojo. Al mismo tiempo se puede direccionar hacia la modificación de especies, tal como los mosquitos, para quitarles el factor vectorial de muchas enfermedades que esparcen.
+
+[Rivian Trucks (video)](https://www.youtube.com/watch?v=QMfxJEfb4lw) - Camioneta 100% electrica.
+# [<img src="img/rivian.jpg">](https://rivian.com/)
+
+>* La tecnología en movilización nos muestra nuevamente la supremacía de los autos eléctricos por sobre los de combustión. Si bien ya todos conocemos la tecnología, la empresa Rivian nos muestra como se extrapola la visión de auto eléctrico a lo todo terreno.
+>* Los modelos de autos creados por la empresa nos muestra la eficiencia de los motores eléctricos, como superan en comparación a otras camionetas de alta gama pero de combustión. El espacio que se gana gracias a que los motores se encuentran en las mismas ruedas nos puede llevar a pensar como se puede administrar realmente el espacio de un auto, dejando de lado la idea de el capo frontal conteniendo el motor.
+
+
+
 <!---
 Referente Pablo Cortés
 -->
@@ -186,12 +216,12 @@ Cada día necesitamos que nuestra energía producida sea más responsable. Hoy l
 Hoy la ingeneria de los satelites es importante para el estilo de vida que vivimos, pero su baja vulnerabilidad, y vida util a generado una gran acumulacion de desechos espaciales . dibido a esto que es importante remplantear el modo de trabajo que se esta desarrollando. L a empresa thales Alenia space esta desarrollando stratobus que esta diseñado para proporcionar informacion de vigilancia maritima , telecomunicaciones etc.. a la vez  imagenes de alta resolucion desde largas doistancias. Es un diseño autonomo que cuenta con energia sustentable 
 
 
-[cuidudades del futuro  (video)](https://www.youtube.com/watch?v=yLCUAhGaGsk) - Emergencia y transporte 
+[Ciududades del futuro  (video)](https://www.youtube.com/watch?v=yLCUAhGaGsk) - Emergencia y transporte 
 # [<img src="img/2.jpg"/>](https://techstartups.com/2020/01/20/fire-truck-future-can-drive-traffic-emergency-situations/)
 >* Comentarios del Referente.
 Hoy con un ritmo exponencial del crecimiento poblacional que como consecuencia produce cuidades mas congestionadas. el transporte de las instituciones de emergencia se van a ver cada vez mas limitadas en llegar con urgencia a los destinos es por esto que una forma de repensar el traslado es este carro de bomberos que se eleva por encima del trafico. esta lejos de la realidad pero muy serca de replantiarce el traslado de estas instituciones.
 
-[hyperloop  (video)](https://www.youtube.com/watch?v=tJoFOmCUgvg) - transporte del futuro
+[Hyperloop  (video)](https://www.youtube.com/watch?v=tJoFOmCUgvg) - transporte del futuro
 # [<img src="img/3.jpg"/>](https://www.spacex.com/hyperloop)
 >* Comentarios del Referente.
 Hyperloop es otro medio de transporte que funciona con tubos al vacio que viaja sin resistencia al aire o a la friccion  trasnportando personas o carga a alta velocidad.
@@ -235,7 +265,7 @@ Nuestro cerebro logra almacenar mucha información y aquí el referente da la im
 
 [Robots (video)](https://www.youtube.com/watch?v=EZZUwU9ZRsQ) - Reinventarse
 # [<img src="img/robots.jpg"/>](https://www.youtube.com/watch?v=zTQAKrX4oUk&feature=youtu.be)
->*Nuestra necesidades son distintas desde nuestro contexto socioeconómico, por lo que si bien esta se presenta como una necesidad robot, se pone sobre la mesa la importancia de reparar y la importancia de conocerse mejor. El futuro antes se veia como algo frio y distante pero el humano tiene la necesidad de humanizarse aun mas, generar empatia y conexion con su entorno. "No importa de lo que estes hecho, puedes brillar"
+>* Nuestra necesidades son distintas desde nuestro contexto socioeconómico, por lo que si bien esta se presenta como una necesidad robot, se pone sobre la mesa la importancia de reparar y la importancia de conocerse mejor. El futuro antes se veia como algo frio y distante pero el humano tiene la necesidad de humanizarse aun mas, generar empatia y conexion con su entorno. "No importa de lo que estes hecho, puedes brillar"
 
 
 <!---
@@ -245,6 +275,25 @@ Gabriela Arisel
 [Amusphere](https://www.youtube.com/watch?v=IBlpodGjBLU) - Mind control technology.
 # [<img src="img/Amusphere2.png"/>](https://www.youtube.com/watch?v=IBlpodGjBLU)
 >* En este video se muestra como la tecnologia esta más cerca del control de objetos mediante nuestra mente. Un referente claro de donde surgió esta idea es una saga de anime llamada [SwordArtOnline](https://www.youtube.com/watch?v=W7SzlqdrkbA) 
+
+
+[Oculus Quest](https://www.youtube.com/watch?v=2VkO-Kc3vks) - Hand Tracking 
+# [<img src="img/OculusQuest.png"/>](https://www.youtube.com/watch?v=2VkO-Kc3vks)
+>* En este video se muestra como la tecnología de la realidad virtual utiliza cada vez menos objetos para realizar actos, por ejemplo ese Oculus Quest, solo tiene censores en el visor los cuales permite escanear lo que hace el usario con las manos sin necesidad de tener controles. Este avance podría solucionar grandes temas de movilidad puesto que solo necesitaremos una visores para poder comunicarnos con el otro en cualquier parte del mundo.
+
+
+[Elon Musk](https://www.youtube.com/watch?v=R3G5fzz76lQ) - Mind-Reading Technologhy
+# [<img src="img/ElonMusk.png"/>](https://www.youtube.com/watch?v=R3G5fzz76lQ)
+>* Este jóven visionario intenta solucionar varios temas sobre la inmersion total, esto ayudaria en parte de la medicina a las personas con enfermedades de etapas avanzadas que requieran estar en la clinica y no se puedan mover, un ejemplo [SwordArtOnline](https://www.youtube.com/watch?v=i7C-Xh7cnJs)
+
+[Ordinal Scale](https://www.youtube.com/watch?v=OLpT9BpznlM&t=7s) - Virtual Reality AR
+# [<img src="img/OrdinalScale.png"/>](https://www.youtube.com/watch?v=OLpT9BpznlM&t=7s)
+>* Este ejemplo de anime, ejemplifica cómo podría ayudar la realidad virtual para hacer deporte, conectarse con familiares o amigos, etc.Dentro de casa.
+
+[UBEREATS](https://www.youtube.com/watch?v=0yMv16p8FO8) - Delivering with Drones
+# [<img src="img/FoodEats.png"/>](https://www.youtube.com/watch?v=0yMv16p8FO8)
+>* Este avance ayudaria en estos tiempos de crisis a transportar el alimento sin ser tocado por terceros (repartidores), además como va por el aire hacia su destino, en el transcurso no tendría ningún agente externo que pueda contaminar el contenido, a esto me refiero caminos mal hechos, personas que quieran hacer alguna interferencia, etc.
+
 
 <!---
 Referente Ignacio Zuñiga
@@ -263,13 +312,13 @@ Lo más emocionante de este proyecto es que no solo tienen capacidad para ayudar
 
 [Silla de rueda inteligente (video)](https://www.youtube.com/watch?v=6LfE3mQzLNY&feature=emb_logo) - Silla inteligente
 # [<img src="img/hoobox-silla-de-ruedas.png"/>](https://www.youtube.com/watch?v=6LfE3mQzLNY&feature=emb_logo)
->*La nueva empresa brasileña Hoobox Robotics ha colaborado con Intel para producir un kit adaptador que permite que casi cualquier silla de ruedas eléctrica sea controlada por las expresiones faciales del usuario. El kit equipa una silla de ruedas con inteligencia artificial para detectar las expresiones del usuario y procesar los datos en tiempo real para dirigir el movimiento de la silla.
+>* La nueva empresa brasileña Hoobox Robotics ha colaborado con Intel para producir un kit adaptador que permite que casi cualquier silla de ruedas eléctrica sea controlada por las expresiones faciales del usuario. El kit equipa una silla de ruedas con inteligencia artificial para detectar las expresiones del usuario y procesar los datos en tiempo real para dirigir el movimiento de la silla.
 El reconocimiento que lograron generar se podría escalar para las señas que se realizan en el LGCH o de otros países, y no solo eso sino que impedir gestos obscenos en videos u otros con el simple recogimiento además de darle a las maquinas la habilidad de entender nuestros gestos entre otros.
 
 
 [Escudo individual vs covid-19](https://www.dezeen.com/2020/02/26/sun-dayong-coronavirus-protection-shield/?li_source=LI&li_medium=bottom_block_1) - Silla inteligente
 # [<img src="img/escudo-portatil.png"/>](https://www.dezeen.com/2020/02/26/sun-dayong-coronavirus-protection-shield/?li_source=LI&li_medium=bottom_block_1)
->*El arquitecto chino Sun Dayong creo un diseño conceptual para un escudo corporal que protegería a un usuario durante un brote de coronavirus utilizando luz UV para esterilizarse. Llamado Be a Bat Man, el dispositivo de seguridad móvil.
+>* El arquitecto chino Sun Dayong creo un diseño conceptual para un escudo corporal que protegería a un usuario durante un brote de coronavirus utilizando luz UV para esterilizarse. Llamado Be a Bat Man, el dispositivo de seguridad móvil.
 Después de contener una epidemia, piensa que los escudos tipo murciélago podrían actualizarse con la tecnología Google Glass, o simplemente usarse como un "espacio móvil privado único para las personas".
 Es curioso que ven esta barrera como algo para una persona... ¿Por qué no verlo para uso más masivo? ¿tal vez una barrera para una ciudad u edificio? esta tecnología se podría escalar aún más.
 
@@ -277,7 +326,7 @@ Es curioso que ven esta barrera como algo para una persona... ¿Por qué no verl
 # [<img src="img/traje-de-masturbacion.png"/>](https://www.dezeen.com/2019/07/24/ripple-masturbation-suit-sex-aid-design/?li_source=LI&li_medium=bottom_block_1)
 >* Los diseñadores Hsin-Jou Huang, Szu-Ying Lai y Chia-Ning Hsu ayudan a las personas con discapacidad  a satisfacer sus necesidades sexuales con una herramienta de masturbación de tres partes que incluye un traje, una máscara y un control remoto. El kit de ayuda sexual, llamado Ripple, está diseñado para personas con limitaciones funcionales de moderadas a severas, que requieren cuidadores para ayudarlos en las tareas cotidianas.
 Funciona para estimular todos los sentidos, incluidos el tacto, la vista, el sonido y el olfato, a través de tres objetos diferentes: un traje de cuerpo acolchado e inflable, un control remoto con un receptor y una máscara para los ojos con auriculares, que también libera feromonas.
-* El kit en infividual para la privacidad de la persona y tambien para ayudar su tranquilidad y placer. Este podria usarse de forma más masiva para evitar el contacto con sus parejas en estos momentos, debido al covid, aislados y distanciados. Ademas el efecto de la sensacion de tacto y calor podria servir tambien como un tipo de terapia para enfermedades. Ser libre sexual mente es algo que hoy en dia cada vez se es más comun en la gente. 
+>* El kit en infividual para la privacidad de la persona y tambien para ayudar su tranquilidad y placer. Este podria usarse de forma más masiva para evitar el contacto con sus parejas en estos momentos, debido al covid, aislados y distanciados. Ademas el efecto de la sensacion de tacto y calor podria servir tambien como un tipo de terapia para enfermedades. Ser libre sexual mente es algo que hoy en dia cada vez se es más comun en la gente. 
 
 <!---
 Referente Carolina Bustamante
@@ -292,6 +341,11 @@ Referente Carolina Bustamante
 # [<img src="img/roxorobot.png"/>](https://www.fedex.com/en-us/innovation/roxo-delivery-robot.html)
 >* La principal función del robot Roxo de Fedex es entregar el paquete el mismo día de la compra. Este tiene un sitema de 6 patas, dos pequeñas y 4 grandes co tracción; así consigue desplazarse por diversas superficies, tomar curvas, entre otros. y además cuenta con paneles de visualización delanteros y traseros. 
 >* Actualemnte con el brote de COVID-19, este sistema sería de gran ayuda para que las personas puedan adquerir productos variados sin la necesidad de un mensajero humano; esto evitaría la exposición de personas durante cuarentena y evitaría la propagación del virus. 
+
+[Solar Impulse (video)](https://www.youtube.com/user/SolarImpulseChannel/featured)
+# [<img src="img/solarimpulse.jpg"/>](https://solarimpulse.com/)
+>* Solar impulse es un proyecto que desarrolla aviones que se alimnetan unicamente con luz solar. Siendo una solución rentable para proteger el medio ambiente. 
+>* Actualmente los centros médicos se encuentran colapsados con la gran cantidad de pacientes debido al covid-19, y también se encuentra escaso de insumos. Al ocupar medios de transporte que funcionan con paneles solares, se ahorrarían los recursos que se ocupaban para los otros tipos de combustible; por lo tanto podrían ocuparse en donde más se necesitan, además de que los transportes de emergencias serían de un menor costo. 
 
 
 <!---
@@ -316,10 +370,37 @@ Referente Isidora Puente
 >* Las reuniones holográficas podrían ser la potencial herramienta para reunirse con las personas de manera digital, simulando de la forma más precisa posible y "real" una instancia de presencia física.
 >* En la saga Starwars vemos a menudo esta tecnología en las reuniones que tiene el consejo Jedi, las llamadas, los mensajes como el del video adjunto, etc. Incluso se pueden ver tableros de juego con esta tecnología. Es un concepto bastante interesante para un contexto como la pandemia actual en la cual debemos quedarnos en nuestras casas pero mantener un constante contacto con la gente por medio de lo virtual.
 
+[Equipo de maniobras tridimensional (gif)](https://media.giphy.com/media/bqlDXCsJnNBFS/giphy.gif) - Wearables/Concept
+# [<img src="img/equipotridimensional.jpg"/>](https://media.giphy.com/media/bqlDXCsJnNBFS/giphy.gif)
+>* Este equipo es un wearable/extensión del cuerpo humano para moverse a grandes velocidades con agilidad y destreza entre pilares, edificios, árboles y titanes. Es de una serie de animación japonesa llamada Shingeki no Kyojin. 
+Lo interesante de este objeto, es que los japoneses siempre logran ponerse en la perspectiva menos esperada con sus ideas. Dichas son plasmadas en el anime, y a pesar de ser elementos ficticios, no dejan de ser conceptos de adaptación móvil en un entorno apocalíptico, en donde la tierra presenta ciertas condiciones que impiden al ser humano moverse en el piso. 
+>* El equipo de maniobras 3D supera los límites de velocidad y posicionamiento que tiene el cuerpo humano, otorgándole adhesión a superficies rígidas, grandes alturas, espacios anchos y estrechos. Todo con accesorios como cuerda de acero, ganchos, gatillos y estanques de gas que impulsan los saltos. Ahora bien ¿Qué tiene que ver esto con la pandemia? Sin duda, es algo que parece ajeno a simple vista, pero esta serie muestra inventos nuevos que desarrolla la humanidad para anteponerse a futuros problemas, en un contexto distinto al real, pero no tan distante, ya que deben vivir tras unos muros que limitan su libertad. El COVID-19 ahora mismo es ese muro, por esa razón creo que la creatividad japonesa es un buen referente para tomar elementos existentes y re-configurarlos a nuestros problemas.
+
+
+[Máscara de oxígeno (video)](https://www.youtube.com/watch?v=4w6N8cSFCvA&t=57s) - Wearables
+# [<img src="img/metromask.jpg"/>](https://www.youtube.com/watch?v=4w6N8cSFCvA&t=57s)
+>* Este wearable/extensión pertenece a un videojuego post apocalíptico llamado Metro. Lo escogí por el concepto que representa; un accesorio que lleva toda/o ciudadana/o en su equipamiento porque existen áreas en las que no se puede respirar debido a gases tóxicos que permanecen en el ambiente y son letales para el sistema respiratorio.
+>* La máscara de oxígeno de Metro funciona con cápsulas de oxígeno y filtros que permiten respirar en un determinado tiempo, sin exponerse a las zonas de gases tóxicos. Basta con tener las suficientes para un viaje, rotarlas en la boquilla y activar el oxígeno. Además, este objeto cuenta con un reloj temporizador que te avisa cuando el oxígeno se está acabando para que prepares la recarga.
+>* Tomé este concepto porque combina dispositivos digitales de información con elementos físicos, que permiten mejorar la experiencia en el ser humano para movilizarse en áreas de alto riesgo por condiciones infecciosas. 
 
 <!---
 Referente Ignacio Saavedra
 -->
+
+[Google glass (video)](https://www.youtube.com/watch?v=4EvNxWhskf8) - Google Glass
+# [<img src="img/google_glass.jpg"/>](https://www.google.com/glass/start/)
+>* Comentarios del Referente.
+La necesidad de simplificar y diversificar el alcance de la teconoglía a algo más natural es una lucha constante. La idea de Google Glass es precisamente esto, conectar la información en un sitio, sin la necesidad de quitar la vista del foco principal del usuario, optimizando la conectividad, y focalizando lo móvil hacia un solo lugar.
+
+[Nuro (video)](https://www.youtube.com/watch?v=ksyiIqf3HMU) - Nuro, el futuro de las compras on line
+# [<img src="img/nuro.jpg"/>](https://criptotendencia.com/2019/02/12/del-supermercado-directo-a-su-casa-a-traves-del-robot-nuro-el-vehiculo-autonomo-de-softbank/)
+>* Comentarios del Referente.
+La conectividad hoy en día, con la pandemia que sufrimos a nivel global, se ve totalmente afectada por los riesgos que conlleva salir de la casa, o incluso recibir un delivery a cargo de un ser humano. Nuro propone acabar con esto, con un vehículo inteligente que va, desde el supermercado, directo a tu casa.
+
+<!---
+Referente Nico Vallejos
+-->
+
 
 
 
